@@ -1,3 +1,15 @@
+# data
+data
+
+# system
+.DS_Store
+
+# pycharm
+.idea 
+
+# pyenv
+.python-version
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
